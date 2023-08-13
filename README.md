@@ -3,7 +3,7 @@ The site that was laid out according to the layout: https://www.figma.com/file/v
 
 # Preview
 ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/62e7cc54-8d6b-41d5-b21e-c55e14d62875)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/1129291a-6024-48e8-baf5-0a641c7c0211)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/19ef932a-65e8-4a5f-b7ab-488c8a1a79d8)
 ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/b4a12f5b-5713-4165-86dc-5e4986740e61)
 ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/f28019c3-3a4a-4ab9-82ec-15b55bab8ce5)
 
