@@ -1,0 +1,532 @@
+*
+    font-family: 'Roboto', sans-serif
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+    
+.container 
+    width: 1140px
+    margin: 0 auto
+
+.title
+    color: #191919
+    text-align: center
+    font-family: 'Work Sans', sans-serif
+    font-size: 62px
+    font-weight: 600
+
+.subtitle
+    color: #191919
+    font-family: 'Roboto', sans-serif
+    font-size: 20px
+    font-weight: 400
+
+.more   
+    color: #3C4BA6
+    padding-right: 5px
+    text-decoration: none
+
+.header
+    padding: 52px 0 140px
+
+    &__menu
+        display: flex
+        justify-content: space-between
+        align-items: center
+
+    &__nav
+        flex-direction: row
+        width: 420px
+        ul
+            display: flex
+            justify-content: space-between
+            list-style-type: none
+            
+            a 
+                color: #191919
+                text-decoration: none
+
+    &__block
+        display: grid
+        grid-template-columns: 560px 460px
+        justify-content: space-between
+        padding-top: 125px
+
+    &__text 
+        &-title 
+            padding-top: 20px
+            color: #191919
+            font-family: 'Work Sans', sans-serif
+            font-size: 72px
+            font-weight: 600
+
+        &-subtitle
+            padding-top: 30px
+
+        &-form
+            margin-top: 60px
+
+            input 
+                width: 280px
+                height: 72px
+                border-radius: 3px
+                border: 1px solid #191919
+                padding: 0 35px
+                font-size: 16px
+                line-height: 16px
+                font-weight: 500
+
+            button
+                cursor: pointer
+                position: absolute
+                background-color: #3C4ba6
+                color: #FFF
+                text-align: center
+                font-size: 18px
+                line-height: 36px
+                width: 150px
+                height: 72px
+                border: none
+                border-radius: 0 3px 3px 0
+                transition: .2s all
+
+                &:hover 
+                    box-shadow: 0px 0px 10px #3C4ba6
+
+    &__photo 
+        position: relative
+        width: 428px
+        height: 521px
+
+        img
+            width: 100%
+            height: 100%
+            border-top-left-radius: 50px
+            object-fit: cover
+
+        svg 
+            z-index: 1
+            position: absolute
+            object-fit: cover
+
+    &__vector1
+        bottom: -27px
+        left: -10px
+
+    &__vector2
+        right: -31px
+        top: -35px
+
+.features 
+    position: relative
+    padding: 140px 0 144px
+    background-color: #F6F9FF
+
+    &__vector 
+        position: absolute
+        bottom: -20px
+        left: 0
+
+    &__wrapper
+        margin-top: 90px
+        display: grid
+        grid-template: 389px / repeat(auto-fit, 362px) 
+        row-gap: 50px
+        grid-auto-rows: 389px
+        justify-content: space-around
+
+    &__item
+        cursor: pointer
+        width: 362px
+        height: 389px
+        background-color: #FFF
+        border-radius: 5px
+        /* padding: 50px 18px 52px 30px */
+        padding-top: 50px
+        box-shadow: 0px 20px 40px 0px rgba(141, 147, 201, 0.08)
+        transition: .2s all
+
+        &:hover
+            transform: scale(1.05)
+
+    &__icon
+        max-width: 150px
+        max-height: 150px
+        padding-left: 8px
+
+        img 
+            width: 100%
+            height: 100%
+
+    &__text 
+        padding-left: 30px
+        &-title 
+            color: #191919
+            font-family: 'Work Sans', sans-serif
+            font-size: 30px
+            font-weight: 600
+
+        &-descr
+            color: #191919
+            font-size: 16px
+            font-weight: 400
+            width: 300px
+            padding: 14px 0
+
+.base
+    padding: 140px 0 86px
+
+    &__item
+        display: flex 
+        justify-content: space-between
+        padding: 140px 0 35px
+
+        &-text
+            padding-top: 45px
+        &-title 
+            text-align: unset
+            width: 480px
+        &-subtitle 
+            width: 408px
+            padding: 30px 0
+        &-more 
+            font-size: 20px
+
+        &-image 
+            cursor: pointer
+            width: 534px
+            height: 500px
+            transition: .2s all
+
+            &:hover
+                transform: scale(1.05)
+
+            img 
+                width: 100%
+                height: 100%
+                object-fit: cover
+
+.testimonial
+    &__title
+        padding-top: 50px
+    &__subtitle
+        text-align: center
+        padding-top: 40px
+
+    &__card
+        position: relative
+        cursor: pointer
+        margin-top: 50px
+        display: flex
+        width: 100%
+        height: 500px
+        border-radius: 9px
+        background-color: #191919
+        transition: .2s all
+
+        &:hover
+            transform: scale(1.02)
+
+        .testimonial__vector1
+            position: absolute
+            top: -27px
+            left: -47px
+
+        .testimonial__vector2
+            position: absolute
+            transform: rotate(180deg)
+            border: #191919
+            border-radius: 5px
+            top: -23px
+            right: -9px
+
+        &-img 
+            width: 362px
+            height: 100%
+
+            img 
+                width: 100%
+                height: 100%
+                object-fit: cover
+                border-radius: 8px
+
+        &-text 
+            color: #FFF
+            padding: 140px 0 127px 90px
+        
+        &-quote, &-author, &-post 
+            font-family: 'Work Sans', sans-serif
+
+        &-quote 
+            width: 500px
+            font-size: 30px
+            font-weight: 600
+            text-transform: capitalize
+        &-author 
+            padding-top: 40px
+            font-size: 20px
+            font-weight: 600
+        &-post 
+            padding-top: 5px
+            font-size: 20px
+            font-weight: 600
+            opacity: 0.7
+
+.article
+    padding: 140px 0 120px
+
+    &__wrapper
+        padding-top: 70px
+        display: grid
+        grid-template-columns: repeat(auto-fit, 558px)
+        justify-content: space-between
+        row-gap: 30px
+        grid-auto-rows: 390px
+
+    &__item
+        cursor: pointer
+        width: 100%
+        height: 390px
+        padding: 78px 84px 0 72px
+        border-radius: 10px
+        border: 1px solid #E0EBFF
+        background: #F5F8FF
+        transition: .2s all 
+
+        &:hover
+            transform: scale(1.03)
+
+        &-title 
+            font-size: 50px
+            font-family: 'Work Sans', sans-serif 
+            font-weight: 600
+            text-transform: capitalize
+
+        &-subtitle 
+            padding: 40px 0
+
+        &-more 
+            font-size: 20px
+
+footer 
+    position: relative
+    background-color: #191919
+    padding: 160px 0 140px
+
+    .footer
+        &__vector1
+            position: absolute
+            transform: rotate(90deg)
+            top: 13px
+            left: -13px
+
+        &__vector2
+            position: absolute
+            bottom: 26px
+            right: 4px
+
+        &__wrapper 
+            display: flex
+            justify-content: space-between
+
+        &__company
+            color: #fff
+            width: 312px
+        
+        &__descr
+            font-size: 20px
+            font-weight: 400
+            padding: 40px 0
+
+        &__social
+            a
+                margin-right: 20px
+
+        &__item
+            color: #fff
+            &-title
+                font-family: 'Work Sans', sans-serif
+                font-size: 30px
+                font-weight: 600
+            
+            ul
+                list-style-type: none
+                a 
+                    display: block
+                    padding-top: 30px
+                    text-decoration: none
+                    color: #fff
+
+@media (max-width: 1200px)
+    .container
+        max-width: 960px
+
+    .header 
+        &__text
+            &-title
+                font-size: 50px
+
+        &__photo
+            width: 353px
+
+        &__block
+            grid-template-columns: 560px auto
+            column-gap: 30px
+            justify-content: center
+
+    .base
+        &__item-image
+            width: 435px
+            height: 430px
+            
+            img 
+                border-radius: 100%
+
+    .testimonial
+        &__card-text 
+            padding: 140px 0 127px 42px
+
+    .article
+        &__wrapper
+            justify-content: center
+
+    
+
+@media (max-width: 992px)
+    .container
+        max-width: 720px
+
+    .header
+        &__photo
+            display: none
+        
+        &__block
+            grid-template-columns: 560px
+
+    .base 
+        &__item
+            flex-direction: column
+            text-align: center
+
+            &-title, &-subtitle
+                width: 100%
+
+            &-image 
+                order: 1
+                margin-top: 20px
+                height: 200px
+                width: 100%
+
+                img 
+                    border-radius: 5px
+            &-text 
+                order: 2
+
+    .testimonial
+        &__card
+            margin: 50px auto 0 auto
+            justify-content: center
+            flex-direction: column
+            width: 80%
+            height: 100%
+
+            &-img 
+                width: 306px
+                height: 321px
+                margin: 50px auto 0 auto
+
+            &-text
+                padding: 26px 10px
+                text-align: center
+
+            &-quote
+                width: unset
+
+
+@media (max-width: 768px)
+    .container
+        max-width: 540px
+
+    .header
+        &__block
+            grid-template-columns: 435px
+
+        &__nav
+            width: 335px
+
+        &__text-title
+            font-size: 43px
+
+    .footer
+        &__wrapper
+            flex-direction: column
+        
+        &__item 
+            margin-top: 60px
+
+@media (max-width: 576px)
+    .container
+        width: 100%
+        padding: 0 10px
+
+    .title 
+        font-size: 35px
+
+    .features 
+        &__wrapper 
+            grid-template: 389px/repeat(auto-fit, 349px)
+            justify-content: center
+
+        &__item
+            width: 349px
+
+    .header
+        &__block
+            grid-template-columns: 299px
+
+        &__nav
+            width: 205px
+            ul
+                a
+                    font-size: 12px
+
+        &__text
+            &-title 
+                font-size: 32px
+                text-align: center
+
+            &-subtitle
+                font-size: 19px
+                text-align: center
+
+            &-form 
+                input, button
+                    width: 100%
+                    height: 55px
+
+                button 
+                    position: unset
+                input 
+                    text-align: center
+
+    .testimonial
+        &__card
+            
+            &-img 
+                width: 234px
+                height: 321px
+
+            &-author, &-post, &-quote
+                font-size: 17px
+
+    .article
+        &__wrapper
+            grid-template-columns: repeat(auto-fit, 100%)
+
+        &__item
+            padding: 78px 30px 0
+            text-align: center
+            &-title 
+                font-size: 30px
+            &-subtitle 
+                font-size: 17px
