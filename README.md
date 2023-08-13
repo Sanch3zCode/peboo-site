@@ -9,15 +9,9 @@ The site that was laid out according to the layout: https://www.figma.com/file/v
 
 
 # Preview (Mobile version)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/94bd566d-ee73-439e-b23c-1bf7bafc9519)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/22ea49f4-0c0f-407e-875d-61026e35203f)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/31a63dfd-be89-4ae9-8a63-a05cce1a8788)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/3496895a-f611-4244-a38b-2a5431be1582)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c929122a-5e7f-49f1-860c-278a595a3ea7) 
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/66e33e01-4843-4925-8b41-2350d8fd2f88)
-
-
-
-
-
-
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c676b246-1945-4038-b655-dda9bd323601)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c1d0d23a-7126-4805-a170-4b3513948225)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/b83c799d-d347-4fbd-8545-1619aaaafe16)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c9e93e2c-9e85-4fc4-bd85-b0dad1ec145d)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/d1c63973-6c0e-4a34-97a7-9c299a18c56b)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/78f9ca85-295f-441e-b13e-c4a9029ae3df)
