@@ -8,12 +8,12 @@ The site that was laid out according to the layout: https://www.figma.com/file/v
 ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/f28019c3-3a4a-4ab9-82ec-15b55bab8ce5)
 
 # Preview (Mobile version)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/94bd566d-ee73-439e-b23c-1bf7bafc9519) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/94bd566d-ee73-439e-b23c-1bf7bafc9519) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/94bd566d-ee73-439e-b23c-1bf7bafc9519)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/22ea49f4-0c0f-407e-875d-61026e35203f) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/22ea49f4-0c0f-407e-875d-61026e35203f) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/22ea49f4-0c0f-407e-875d-61026e35203f)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/31a63dfd-be89-4ae9-8a63-a05cce1a8788) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/31a63dfd-be89-4ae9-8a63-a05cce1a8788) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/31a63dfd-be89-4ae9-8a63-a05cce1a8788)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/3496895a-f611-4244-a38b-2a5431be1582) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/3496895a-f611-4244-a38b-2a5431be1582) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/3496895a-f611-4244-a38b-2a5431be1582)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c929122a-5e7f-49f1-860c-278a595a3ea7) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c929122a-5e7f-49f1-860c-278a595a3ea7) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c929122a-5e7f-49f1-860c-278a595a3ea7)
-![image](https://github.com/SanchezLua/peboo-site/assets/83919944/66e33e01-4843-4925-8b41-2350d8fd2f88) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/66e33e01-4843-4925-8b41-2350d8fd2f88) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/66e33e01-4843-4925-8b41-2350d8fd2f88)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/94bd566d-ee73-439e-b23c-1bf7bafc9519) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/94bd566d-ee73-439e-b23c-1bf7bafc9519)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/22ea49f4-0c0f-407e-875d-61026e35203f) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/22ea49f4-0c0f-407e-875d-61026e35203f)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/31a63dfd-be89-4ae9-8a63-a05cce1a8788) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/31a63dfd-be89-4ae9-8a63-a05cce1a8788)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/3496895a-f611-4244-a38b-2a5431be1582) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/3496895a-f611-4244-a38b-2a5431be1582)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c929122a-5e7f-49f1-860c-278a595a3ea7) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/c929122a-5e7f-49f1-860c-278a595a3ea7)
+![image](https://github.com/SanchezLua/peboo-site/assets/83919944/66e33e01-4843-4925-8b41-2350d8fd2f88) ![image](https://github.com/SanchezLua/peboo-site/assets/83919944/66e33e01-4843-4925-8b41-2350d8fd2f88)
 
 
 
